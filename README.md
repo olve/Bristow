@@ -1,7 +1,7 @@
 Bristow
 =======
 
-A Python 2.5 program for keybinding your own methods.
+A Python 2.5 program for keybinding your own methods. (useful if your keyboard's mediakeys are broken)
 Mostly dead legacy code.
 
 
